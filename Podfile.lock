@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.9.1)
+  - KakaJSON (1.1.2)
+  - Kingfisher (4.10.1)
+  - ProgressHUD (2.70)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - KakaJSON
+  - Kingfisher
+  - ProgressHUD
+  - SnapKit
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Alamofire
+    - KakaJSON
+    - Kingfisher
+    - ProgressHUD
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  KakaJSON: cc5ff50a8c1cfbb09413db8496cb709a209e6137
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ProgressHUD: e603e8b8622c47d8818b9fb38b3cfe9d3e7ca421
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 466dbe7029461b389dd9c1973ff03dc61b648486
+
+COCOAPODS: 1.10.0
